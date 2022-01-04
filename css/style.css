@@ -1,0 +1,32 @@
+body {
+    color: #111;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111;
+    color: #fff;
+    margin: 0 0 1rem;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 98%;
+}
+
+h1 {
+    margin: 0;
+    padding: 1rem 0;
+}
+
+h2, h3 {
+    margin: 0;
+    padding: 0.5rem 0; 
+}
+
+.published-date {
+    margin: 0 0 0.5rem;
+}

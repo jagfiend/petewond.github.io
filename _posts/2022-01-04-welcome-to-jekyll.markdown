@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-01-04 19:01:51 +0000
-categories: jekyll update
+title:  "A New Year, A New Blog"
+date:   2022-01-04 19:00:00 +0000
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+It's time to start a blog... I have randomly decided. Well perhaps not so randomly. For the last few years I have had lots of things I wanted to explore more outside of my day job and now is as good a time as any though I don't believe in making New Year's resolutions as such. Rather than setting big goals and then not doing anything to achieve them I prefer to have a few areas that I want to improve on and then incrementally work at those a little every day or two. Those little increments hopefully add up over time into meeting bigger goals anyway.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Rambling intro aside. This year I would like to learn and build some new things (or old things in new ways). Broadly I want to:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
++ Improve my backend skills and become more of a specialist in this area.
++ Learn Python to challenge myself technically and work with a language that's quite different to what I'm used to.
++ Dive dive into topics like API development, approaches to developing larger projects and better understanding the tools I'm using day to day.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My first idea for something I have been meaning to build for awhile is a dojo management system. I think building this in both Django and a Laravel stack so I can compare and contrast as I go will be a good way to begin!
