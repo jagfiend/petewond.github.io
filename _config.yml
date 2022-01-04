@@ -23,7 +23,7 @@ email: pgwond@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am Pete Wond, a Web Developer currently working with PHP (Laravel) and JS (Vue, Inertia).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://petewond.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.petewond.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jagfiend
 
 # Build settings
