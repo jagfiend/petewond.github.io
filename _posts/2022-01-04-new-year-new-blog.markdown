@@ -8,7 +8,7 @@ It's time to start a blog... I have randomly decided. Well perhaps not so random
 
 Rambling intro aside. This year I would like to learn and build some new things (or old things in new ways). Broadly I want to:
 
-+ Improve my backend skills and become more of a specialist in this area.
++ Improve my backend development skills and become more of a specialist in this area.
 + Learn Python to challenge myself technically and work with a language that's quite different to what I'm used to.
 + Dive dive into topics like API development, approaches to developing larger projects and better understanding the tools I'm using day to day.
 
