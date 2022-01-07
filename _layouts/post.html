@@ -3,18 +3,20 @@ layout: default
 ---
 
 <section>
-
     <a href="{{ site.url }}">Back to homepage</a>
 
     <h1>{{ page.title }}</h1>
-
-    <p class="published-date">
-        Published date:
-        <time class="date" datetime="{{page.date | date_to_xmlschema}}">
-            {{ page.date | date: "%d %B %Y" }}
-        </time>
-    </p>
-
+    
+    {% if page.published %}
+        <p class="published-date">
+            Published date:
+            <time class="date" datetime="{{page.date | date_to_xmlschema}}">
+                {{ page.date | date: "%d %B %Y" }}
+            </time>
+        </p>
+    {% else %}    
+        <p class="text-warning">This is a draft post - there are probably errors and the URL may change</p>
+    {% endif %}
+    
     <article>{{ content }}</article>
-
 </section>
