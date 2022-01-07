@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Learning Python 2 - Classes"
+title: "Learning Python 2 - Classes"
 ---
 
-Continued from the [previous post on functions](todo:addthelink) I also dabbled with class definitions and inhertiance. Note that I'm trying to follow the [PEP-8 Sytle Guide](https://www.python.org/dev/peps/pep-0008/) to ingrain some best practises asap.
+Continued from the [previous post on functions](/2022/01/07/learning-python-1-functions.html) I also dabbled with class definitions and inhertiance. Note that I'm trying to follow the [PEP-8 Sytle Guide](https://www.python.org/dev/peps/pep-0008/) to ingrain some best practises asap.
 
 ```python
 # Basic class structure - defined with lower case class keyword, uppercase class name,

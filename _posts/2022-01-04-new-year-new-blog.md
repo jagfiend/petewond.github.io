@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A New Year, A New Blog"
-date:   2022-01-04 19:00:00 +0000
+title: "A New Year, A New Blog"
+date: 2022-01-04 19:00:00 +0000
 published: true
 ---
 
