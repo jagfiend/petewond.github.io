@@ -48,7 +48,7 @@ To play around with these instantiating these objects in the VS Code terminal I 
 
 ```python
 # open python3:
-$ python3
+% python3
 # execute the script to make the classes available:
 >>> exec(open('class_examples.py').read())
 # instantiate and assign the Student class:
