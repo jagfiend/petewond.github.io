@@ -51,5 +51,6 @@ h2, h3 {
 
 pre {
     background-color: #eee;
+    overflow-x: scroll;
     padding: 1.25rem 1.5rem;
 }
