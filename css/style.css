@@ -48,3 +48,8 @@ h2, h3 {
     color: #f00;
     margin: 0 0 0.5rem;   
 }
+
+pre {
+    background-color: #eee;
+    padding: 1.25rem 1.5rem;
+}
