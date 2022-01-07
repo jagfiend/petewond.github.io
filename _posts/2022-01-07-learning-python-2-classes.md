@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Learning Python 2 - Classes"
+date: 2022-01-07 16:00:00 +0000
+published: true
 ---
 
 Continued from the [previous post on functions](/2022/01/07/learning-python-1-functions.html) I also dabbled with class definitions and inhertiance. Note that I'm trying to follow the [PEP-8 Sytle Guide](https://www.python.org/dev/peps/pep-0008/) to ingrain some best practises asap.
@@ -46,7 +48,7 @@ To play around with these instantiating these objects in the VS Code terminal I 
 
 ```python
 # open python3:
->>> python3
+$ python3
 # execute the script to make the classes available:
 >>> exec(open('class_examples.py').read())
 # instantiate and assign the Student class:

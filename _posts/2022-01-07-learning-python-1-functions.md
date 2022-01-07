@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Python 1 - Functions"
-date: 2022-01-07 15:4-:00 +0000
+date: 2022-01-07 15:40:00 +0000
 published: true
 ---
 
