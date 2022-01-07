@@ -27,6 +27,18 @@ h2, h3 {
     padding: 0.5rem 0; 
 }
 
+.heading-404 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
 .published-date {
     margin: 0 0 0.5rem;
+}
+
+.text-warning {
+    color: #f00;
+    margin: 0 0 0.5rem;   
 }
