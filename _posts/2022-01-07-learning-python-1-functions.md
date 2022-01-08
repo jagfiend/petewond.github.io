@@ -11,7 +11,7 @@ I started teaching myself Python towards the end of 2021. Initially I watched so
 + [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/featured) - Good for understanding general, advanced and odd bits of the language.
 + [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg) - Good for understanding the fundamentals, more data science orientated.
 
-I decided to get a bit more active and to learn the basics of the language outside a web development context (more on this in the future) so signed up for the Python Programmer [Python for Absolute Beginners - Python Beginner to Pro 2021](https://www.udemy.com/course/the-complete-python-programmer-bootcamp/) course.
+I decided to do more active learning and learn the basics of the language outside a web development context (more on this in the future) so signed up for the Python Programmer [Python for Absolute Beginners - Python Beginner to Pro 2021](https://www.udemy.com/course/the-complete-python-programmer-bootcamp/) course.
 
 From this course I have gained an overview of the fundamentals such as variable assignment, control flow and got passed the weird feeling of not typing `{}` to define blocks and ending lines with semicolons (something I do in JavaScript as well as PHP). I played around with functions, inevitably with some Fibonacci variations:
 
