@@ -63,9 +63,6 @@ td > code {
 }
 
 pre {
-    padding: 1.25rem 1.5rem;
-}
-
-pre code {
     overflow-x: scroll;
+    padding: 1.25rem 1.5rem;
 }
