@@ -5,6 +5,8 @@ date: 2022-01-07 15:40:00 +0000
 published: true
 ---
 
+## Intro
+
 I started teaching myself Python towards the end of 2021. Initially I watched some YouTube videos and would recommend the following videos / channels:
 
 + [freeCodeCamp](https://www.youtube.com/c/mCodingWithJamesMurphy/featured) - I watched the 4hr Django beginners course and the 10hr Python Backend Dev course (at x1.5 speed!).
@@ -12,6 +14,8 @@ I started teaching myself Python towards the end of 2021. Initially I watched so
 + [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg) - Good for understanding the fundamentals, more data science orientated.
 
 I decided to do more active learning and learn the basics of the language outside a web development context (more on this in the future) so signed up for the Python Programmer [Python for Absolute Beginners - Python Beginner to Pro 2021](https://www.udemy.com/course/the-complete-python-programmer-bootcamp/) course.
+
+## Functions
 
 From this course I have gained an overview of the fundamentals such as variable assignment, control flow and got passed the weird feeling of not typing `{}` to define blocks and ending lines with semicolons (something I do in JavaScript as well as PHP). I played around with functions, inevitably with some Fibonacci variations:
 

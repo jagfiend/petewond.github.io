@@ -7,6 +7,8 @@ published: true
 
 Continued from the [previous post on functions](/2022/01/07/learning-python-1-functions.html) I also dabbled with class definitions and inhertiance. Note that I'm trying to follow the [PEP-8 Sytle Guide](https://www.python.org/dev/peps/pep-0008/) to ingrain some best practises asap.
 
+## Basic Class Syntax
+
 ```python
 # Basic class structure - defined with lower case class keyword, uppercase class name,
 # takes arg of object to inherit from built-in object template.

@@ -6,7 +6,8 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Happy Jekylling! 
+# to develop locally, uncomment the gem jekyll line and run `bundle exec jekyll serve --drafts`
 # gem "jekyll", "~> 4.2.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
